@@ -22,7 +22,7 @@ _May 2023 – Aug 2024_
 
 ### 📈 GitHub Stats
 
-![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitish06-c&show_icons=true&theme=tokyonight&count_private=true)
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitish06-c&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish06-c&layout=compact&theme=tokyonight)
 
